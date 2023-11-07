@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+@font-face {
+	font-family: 'IRANSans';
+	src: url('./IRANSans.woff2') format('woff2'),  /* Chrome36+, Opera24+*/
+ 
+}
+
+/* @font-face {
+	font-family: 'IRANSans';
+	src: url('./IRANSans\(FaNum\).eot') format('eot'),  /* IE6–8 
+	url('./IRANSans\(FaNum\).woff2') format('woff2'),  /* Chrome36+, Opera24+
+	url('./IRANSans\(FaNum\).woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+
+	url('./IRANSans\(FaNum\).ttf') format('ttf');  
+} */
